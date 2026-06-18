@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Primary sitemap
+Sitemap: https://dorienwells.com/sitemap.xml
+
+# Block any future admin or draft paths
+Disallow: /drafts/
+Disallow: /admin/
